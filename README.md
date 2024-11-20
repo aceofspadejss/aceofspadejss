@@ -26,7 +26,7 @@
 <p align="center"> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kartik_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/14kartiksingh)](https://www.linkedin.com/in/14kartiksingh)
+[![Linkedin Badge](https://img.shields.io/badge/-Pulkit_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-singh-54b08a27b/)](https://www.linkedin.com/in/pulkit-singh-54b08a27b)
 [![Gmail Badge](https://img.shields.io/badge/-14kartiksingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:14kartiksingh@gmail.com)](mailto:14kartiksingh@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/14_kartik_singh)](https://www.instagram.com/14_kartik_singh)
 

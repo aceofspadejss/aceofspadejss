@@ -27,27 +27,25 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pulkit_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-singh-54b08a27b/)](https://www.linkedin.com/in/pulkit-singh-54b08a27b)
-[![Gmail Badge](https://img.shields.io/badge/-14kartiksingh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:14kartiksingh@gmail.com)](mailto:14kartiksingh@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@14_kartik_singh-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/14_kartik_singh)](https://www.instagram.com/14_kartik_singh)
+[![Gmail Badge](https://img.shields.io/badge/-pulkitsingh7088255052@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:pulkitsingh7088255052@gmail.com)](mailto:pulkitsingh7088255052@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@pulkit_singh_7177-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/pulkit_singh_7177/)](https://www.instagram.com/pulkit_singh_7177/)
 
 </p>
 <!-- <h2>📊 My Github Stats</h2>
 
-|                          |              |
-| :---------------------: | :----------------------: |
-| <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=14kartiksingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/14kartiksingh/github-readme-stats"><img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14kartiksingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+
 
 
 <br/> -->
 <p align="center">
-    <a href="https://github.com/14kartiksingh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kartik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=14kartiksingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/aceofspadejss/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pulkit streak" src="https://github-readme-streak-stats.herokuapp.com/?user=14kartiksingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br/>
 <br/>
 
-<p align="center">See More: https://metrics.lecoq.io/about/14kartiksingh</p>
+<p align="center">See More: https://metrics.lecoq.io/about/aceofspadejss</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
